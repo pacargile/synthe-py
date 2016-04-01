@@ -1,6 +1,8 @@
 # synthe-py
 Python hooks and glue code for Bob Kurucz synthe.for program
 
+CURRENTLY A WORK IN PROGRESS
+
 Files:
 
 synthe.f90 -> Fortran code that is directly taken from Bob's synthe.for code
